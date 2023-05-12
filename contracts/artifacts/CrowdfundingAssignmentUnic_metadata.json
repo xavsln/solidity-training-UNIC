@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.19+commit.7dd6d404"
+		"version": "0.8.20+commit.a1b79de6"
 	},
 	"language": "Solidity",
 	"output": {
@@ -19,6 +19,11 @@
 					{
 						"internalType": "string",
 						"name": "_projectTitle",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_projectDescription",
 						"type": "string"
 					},
 					{
@@ -154,7 +159,7 @@
 		"compilationTarget": {
 			"contracts/CrowdfundingAssignmentUnic.sol": "CrowdfundingAssignmentUnic"
 		},
-		"evmVersion": "paris",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -167,11 +172,11 @@
 	},
 	"sources": {
 		"contracts/CrowdfundingAssignmentUnic.sol": {
-			"keccak256": "0xb70644d4090a4bbe351542a06b0dffbeeb3858a5407091b7aaf1fedfa5ed96c5",
+			"keccak256": "0x4e1bb14bfa9886d72437f30ff14219dd47ffda2be518fd993fca21aefbe5f03b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0dbbdfcdae1deeeca2eb2283610071ed7b560b979e77a0c91f2023a9454f0d46",
-				"dweb:/ipfs/QmcPL7FkuYjR8XsWwQgksoZn45DZC6ExoSQz6aBBHiT7Wd"
+				"bzz-raw://2fdee73336115d918dcd6e4179b5ebc80db0f358504702f165a73e9c32d000d2",
+				"dweb:/ipfs/QmQ8EqyHS1xG7MSuJjmjixgDCT4CjxWhGPxshxgmf5qFLg"
 			]
 		}
 	},
