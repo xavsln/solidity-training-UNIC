@@ -71,6 +71,11 @@
 						"type": "string"
 					},
 					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
 						"internalType": "address",
 						"name": "",
 						"type": "address"
@@ -172,11 +177,11 @@
 	},
 	"sources": {
 		"contracts/CrowdfundingAssignmentUnic.sol": {
-			"keccak256": "0x4e1bb14bfa9886d72437f30ff14219dd47ffda2be518fd993fca21aefbe5f03b",
+			"keccak256": "0xc2e742d99271b81d0ca1884e2b8d463b59def5f6e8f429e8fec097cc9cc34cd9",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2fdee73336115d918dcd6e4179b5ebc80db0f358504702f165a73e9c32d000d2",
-				"dweb:/ipfs/QmQ8EqyHS1xG7MSuJjmjixgDCT4CjxWhGPxshxgmf5qFLg"
+				"bzz-raw://80cbf837a832e8a8b75763e271c5dee136736fd3eb4bcdef1214089841f9ee28",
+				"dweb:/ipfs/QmQN1vujkPnidzfWWeimGpaD4Cy8ovDtS61NLXe6NyQg18"
 			]
 		}
 	},

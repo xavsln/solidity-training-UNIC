@@ -38,12 +38,12 @@ contract CrowdfundingAssignmentUnic {
         nextProjectID++;
     }
 
-    function getProjectDetails(uint256 _projectID) public view returns (uint256, string memory, address, uint256, uint256) {
+    function getProjectDetails(uint256 _projectID) public view returns (uint256, string memory, string memory, address, uint256, uint256) {
         // Check if the project exists
         require(projects[_projectID].projectOwner != address(0), "Project does not exist.");
 
         Project storage project = projects[_projectID];
-        return (project.projectID, project.projectTitle, project.projectOwner, project.projectParticipationAmount, project.projectTotalFundingAmount);
+        return (project.projectID, project.projectTitle, project.projectDescription, project.projectOwner, project.projectParticipationAmount, project.projectTotalFundingAmount);
     }
 
 
