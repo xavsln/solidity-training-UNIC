@@ -3,7 +3,7 @@
 
 . Using Remix IDE (Injected Web3 / Metamask)
 
-2. Contract address is:
+2. Contract address is: 0xeC922faffF3c1171dEcaC05efa1EAe75baf0dcf1
 
 3. Contract is accessible here: https://goerli.etherscan.io/address/0xec922fafff3c1171decac05efa1eae75baf0dcf1
 
