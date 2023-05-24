@@ -92,11 +92,11 @@
 	},
 	"sources": {
 		"contracts/ExerciseWeek3.sol": {
-			"keccak256": "0xd335e4a4d535effdd784ba02825389d4b793bed2853c1584c4e82202438cc47d",
+			"keccak256": "0xee62ebafc4b75ab4a6d6552dce063e54f63784384209afde2e32254d9f1e0e26",
 			"license": "Unlicence",
 			"urls": [
-				"bzz-raw://ebee6b82dbc166f21d54e6b70f6a6f3798217858492f7decc3ea5c9a3a45856e",
-				"dweb:/ipfs/QmPyrtjinzMZHyX6qsZimt4Ve6qnJr7vBcpXGq1Rqiu5a5"
+				"bzz-raw://8f9934299938b81fdc637d29fa91b712fe9b57da239cb880e9b50ccbb2d565f6",
+				"dweb:/ipfs/QmSbtf3d6TWSQA5ZvKTMGHxKubDB1kR4iv4PUV2QNN3nTY"
 			]
 		}
 	},
